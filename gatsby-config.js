@@ -1,34 +1,27 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Tushar Dave`,
+    name: `Tushar Dave`,
+    siteUrl: `https://www.tushardave.in`,
+    description: `platform for student to find tips and tools which can help them in living better life.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Hey friends, I'm Tushar.On this portal,  I share my thoughts, life lessons, tips and tools to help students live focused and productive life.`,
+      maxWidth: 670,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://twitter.com/imtushardave`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/imtushardave`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/imtushardave/`,
       },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+    
     ],
   },
   plugins: [
