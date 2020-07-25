@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://www.tushardave.in`,
     description: `portal for students to find tips and tools to live better life`,
     hero: {
-      heading: `Welcome to place of thoughts, life-lessons, tips and tools for students.`,
+      heading: `Welcome to my place of thoughts, life-lessons and valuable experiences.`,
       maxWidth: 670,
     },
     social: [
