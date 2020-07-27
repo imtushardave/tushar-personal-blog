@@ -33,6 +33,8 @@ Currently, we are in the process to make our programming club more active and fu
 
 <!--StartFragment-->
 
+
+
 I believe community is the real power. It did not just push you to do amazing things it also helps us in our tough times. When you need support, you are surrounded by people who can help you. Clubs and communities are the best places to learn life skills. Developing such a club is our ultimate aim, where we can help many of the students around to explore their full potential.
 
 I believe if the club continues growing like my fellow juniors are working, one day will come when our college will be identified with the reputation of our club.
@@ -40,11 +42,3 @@ I believe if the club continues growing like my fellow juniors are working, one 
 <!--EndFragment-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVsantvrWGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!--StartFragment-->
-
-Need any help? Want to talk? Or just sent me wishes?
-
-find me on [Facebook](https://facebook.com/davet.1998)|[Twitter](https://twitter.com/imtushardave)|[Linkedin](http://www.linkedin.com/in/imtushardave)
-
-<!--EndFragment-->

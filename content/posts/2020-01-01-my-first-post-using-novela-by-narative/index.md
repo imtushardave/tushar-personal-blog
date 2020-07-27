@@ -7,6 +7,7 @@ excerpt: >-
   resources that make it easier for anyone to grasp the power of this incredible
   tool.
 hero: ./images/hero.jpg
+secret : true
 ---
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
