@@ -8,7 +8,6 @@ import { Icon } from '@types';
 const Logo: Icon = ({ fill = "white" }) => {
   return (
     <LogoContainer>
-      
       <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
         width="250pt" 
         height="50pt" 
